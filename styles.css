@@ -4,4 +4,25 @@ h1 {
 
 p {
     color:blueviolet;
+    margin-left: 10px;
+}
+body {
+    background-color: aliceblue;
+}
+
+#paragraph2 {
+    color:lightcoral;
+    margin-left: 10px;
+}
+
+/*. represents a class*/
+.content {
+    background-color:blanchedalmond;
+    display: flex;
+    margin: 10px;
+}
+
+.btn-custom {
+    color:blue;
+    margin-left: 10px;
 }
